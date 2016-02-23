@@ -1,0 +1,28 @@
+
+////CST-100 Starliner - 3.75m 7 Seat Crew Vehicle!////
+
+Example Ship requires RoverDude's USI Survivability Pack
+
+v0.7.6 Fixed texture shaders, Added nosecone collider mesh, Fixed heatshield ablator
+
+v0.7 Updated IVA to closely resemble real life version, Added bump maps to textures
+
+v0.6 Added parachutes!
+
+v0.5 3 New docking ports + IDA, Adjusted nose cone to fit docking ports, Changed file names to have no conflicts, Added IVA, Combined Solar Panels with SM, Added SM Ring, Updated textures again
+
+v0.4 Rotated capsule and SM 180 degrees, Updated capsule and heatshield textures, Added new adapters, Increased capsule mono to 50, Decreased sm mono to 200, Decreased ablator on heatshield, Changed tech level for career mode
+
+v0.3 Fixed holes in heatshield, nosecone doesn't get stuck when decoupled, solar panels receive light, resized adapter to fit 2.5m fuel tanks, added flag decal
+
+v0.2 Added Textures, Added Center Solar Panel 
+
+v0.1 Initial test build release
+
+Created By:
+OrbitalEscape: Unity/Configs
+xxhansonmaxx: Models/Textures, Owner
+Tristonwilson12: Original creator
+Kartoffelkuchen: Old SM creator 
+
+LICENSE: CC BY-NC 4.0
